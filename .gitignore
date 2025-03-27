@@ -1,0 +1,10 @@
+.idea
+.terraform
+.terraform.lock.hcl
+.terraform.tfstate
+
+*/target
+
+.mvn
+mvnw*
+.gitattributes
